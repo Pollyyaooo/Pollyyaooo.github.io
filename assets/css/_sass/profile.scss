@@ -2,33 +2,24 @@
    Profile image (About page)
    ========================= */
 
-.profile {
-  float: right;             
+img.profile {
+  float: right;           
   margin-left: 2rem;
   margin-bottom: 1rem;
 
-  border: none;
-  background: none;
-}
-
-.profile img {
-  max-width: 240px;         
+  max-width: 240px;       
+  width: auto;
   height: auto;
-  display: block;
 
-  border-radius: 0;         
+  border: none;
+  border-radius: 0;
+  display: block;
 }
 
-/* 手机端适配 */
 @include media-query($on-palm) {
-  .profile {
+  img.profile {
     float: none;
     margin: 0 auto 1.5rem auto;
-    text-align: center;
-  }
-
-  .profile img {
     max-width: 60%;       
   }
 }
-
