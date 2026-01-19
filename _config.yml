@@ -5,16 +5,14 @@ description: MS Student in Technology Innovation
 
 baseurl: "" 
 url: "https://pollyyaooo.github.io/" 
-email: qinling3@uw.edu
+
 
 # Pagination
 paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
-# Social media links in footer
-linkedin: "https://www.linkedin.com/in/pollyyao2427/"
-instagram: "https://www.instagram.com/yao.polly?igsh=MXBpb3FnbDQyemZ6eA%3D%3D&utm_source=qr"
+
 
 # Markdown
 highlighter: rouge
