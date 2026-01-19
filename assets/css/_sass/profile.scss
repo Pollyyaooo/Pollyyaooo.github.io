@@ -1,18 +1,4 @@
-/* Profile image container */
-.profile {
-  float: right;             
-  margin-left: 2rem;
-  margin-bottom: 1rem;
-
-  border: none;
-  border-radius: 0;
-  background: none;
-}
-
-/* Profile image itself */
 .profile img {
-  display: block;
-  max-width: 200px;          
-  height: auto;
-  border-radius: 0;         
+  max-width: 120px !important;
+  border: 5px solid red !important;
 }
