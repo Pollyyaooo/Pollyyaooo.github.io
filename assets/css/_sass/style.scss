@@ -207,47 +207,36 @@ blockquote {
   margin-top: 2.5rem;
 }
 
-.project-item {
-  display: flex;
-  gap: 1.5rem;
-  margin-bottom: 2.5rem;
+.project-item a,
+.project-item a:visited {
+  color: $text-color;
+  font-weight: normal;
+  text-decoration: none;
 }
 
-.project-item img {
-  width: 180px;
-  height: auto;
-  object-fit: cover;
-  border-radius: 4px;
+.project-item a:hover {
+  color: $brand-color;
 }
 
-.project-text h4 {
-  font-size: 1rem;        
-  font-weight: normal;   
-  color: #222;            
+.project-item h4,
+.project-item strong {
+  font-size: $base-font-size;
+  font-weight: normal;
   margin: 0;
 }
 
-.project-text p {
-  font-size: 1rem;       
+.project-item p {
+  font-size: $base-font-size;
   font-weight: normal;
-  color: #666;           
+  color: $text-color;
   margin: 0.2rem 0 0 0;
 }
 
 .project-time {
   font-size: 0.85rem;
-  margin: 0.2rem 0 0.4rem 0;
+  color: #999;
 }
 
-/* Mobile */
-@media (max-width: 600px) {
-  .project-item {
-    flex-direction: column;
-  }
-
-  .project-item img {
-    width: 100%;
-  }
 }
 
 
