@@ -1,9 +1,18 @@
-/* Profile */
+/* Profile image container */
 .profile {
-    flex: 0 0 220px;    
-    margin-left: 1.5rem;
-    margin-bottom: 1rem;
+  float: right;             
+  margin-left: 2rem;
+  margin-bottom: 1rem;
 
-    border: none;
-    border-radius: 0;    
+  border: none;
+  border-radius: 0;
+  background: none;
+}
+
+/* Profile image itself */
+.profile img {
+  display: block;
+  max-width: 260px;          
+  height: auto;
+  border-radius: 0;         
 }
