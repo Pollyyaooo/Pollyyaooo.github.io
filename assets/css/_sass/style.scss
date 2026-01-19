@@ -250,6 +250,18 @@ blockquote {
   .project-item img {
     width: 100%;
   }
+  
+}
+/* Make project titles look like normal text */
+.project-link {
+  color: inherit;          
+  text-decoration: none;   
+  display: inline-block;
+}
+
+/* Hover feedback */
+.project-link:hover {
+  color: #555;
 }
 
 
