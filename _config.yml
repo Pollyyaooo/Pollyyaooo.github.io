@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Polly Yao
+description: UW MSTI
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: "" 
+url: "https://pollyyaooo.github.io/" 
+email: qinling3@uw.edu
 
 # Pagination
 paginate: 4
