@@ -14,8 +14,9 @@ I am currently exploring research in embodied and physical AI, with a particular
 
 If you are interested in collaboration or discussing shared research directions, please feel free to reach out [via email](mailto:qinling3@uw.edu). 
 
-<br><br><br>
+<br>
 ---
+<br>
 
 I received my undergraduate training in [landscape planning](https://art.ecust.edu.cn/cpsj_14963/list.htm) at [East China University of Science and Technology](https://www.ecust.edu.cn/), where I developed a foundation in spatial thinking, environmental systems, and human–environment interaction.
 
