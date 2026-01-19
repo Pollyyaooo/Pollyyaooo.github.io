@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Polly Yao
-description: UW MSTI
+description: qinling3@uw.edu
 
 baseurl: "" 
 url: "https://pollyyaooo.github.io/" 
@@ -13,15 +13,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+linkedin: "https://www.linkedin.com/in/pollyyao2427/"
+instagram: "https://www.instagram.com/yao.polly?igsh=MXBpb3FnbDQyemZ6eA%3D%3D&utm_source=qr"
 
 # Markdown
 highlighter: rouge
