@@ -7,11 +7,15 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+Hi! I am currently a first-year [MSTI](https://gix.uw.edu/graduate/msti) student at [the University of Washington](https://www.washington.edu).
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I am currently exploring research in embodied and physical AI, with a particular focus on multimodal machine learning and sensing-based systems.
 
-PS: If you liked the theme, do star it on GitHub!
+If you are interested in collaboration or discussing shared research directions, please feel free to [reach out](mailto:qinling3@uw.edu). 
 
+I received my undergraduate training in [landscape planning](https://art.ecust.edu.cn/cpsj_14963/list.htm) at [East China University of Science and Technology](https://www.ecust.edu.cn/), where I developed a foundation in spatial thinking, environmental systems, and human–environment interaction.
+
+At the graduate level, I have built an interdisciplinary background in connected devices, spanning hardware and software technologies, design practices, and business perspectives. 
+
+You are welcome to view my [CV](assets/pdf/Polly_Yao_CV.pdf).
