@@ -234,8 +234,8 @@ blockquote {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #333;
 }
+
 
 .project-time {
   font-size: 0.85rem;
@@ -253,12 +253,6 @@ blockquote {
 .project-link {
   text-decoration: none;
   color: inherit;
-}
-
-/* Hover feedback */
-.project-link:hover .project-title,
-.project-item:hover .project-title {
-  color: #555;
 }
 
 /* Mobile */
