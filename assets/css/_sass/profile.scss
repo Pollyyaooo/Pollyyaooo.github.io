@@ -1,18 +1,9 @@
 /* Profile */
 .profile {
-    float: right;              
-    width: 220px;              
+    flex: 0 0 220px;    
     margin-left: 1.5rem;
-    margin-right: 0;
     margin-bottom: 1rem;
 
     border: none;
-    border-radius: 0;          
-}
-.profile {
-  background: red;
-}
-
-.profile img {
-  background: blue;
+    border-radius: 0;    
 }
