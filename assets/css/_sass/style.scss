@@ -207,34 +207,44 @@ blockquote {
   margin-top: 2.5rem;
 }
 
-.project-item a,
-.project-item a:visited {
-  color: $text-color;
-  font-weight: normal;
+a.project-item,
+.project-item {
+  display: flex !important;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
   text-decoration: none;
+  color: inherit;
 }
 
-.project-item a:hover {
-  color: $brand-color;
+.project-item img {
+  width: 180px !important;
+  max-width: 180px !important;
+  height: auto !important;
+  display: block;
+  object-fit: cover;
+  border-radius: 4px;
+  flex: 0 0 180px;
 }
 
-.project-item h4,
-.project-item strong {
-  font-size: $base-font-size;
-  font-weight: normal;
-  margin: 0;
+.project-text {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
-.project-item p {
-  font-size: $base-font-size;
-  font-weight: normal;
-  color: $text-color;
-  margin: 0.2rem 0 0 0;
+/* Mobile: stack */
+@media (max-width: 600px) {
+  a.project-item,
+  .project-item {
+    flex-direction: column !important;
+  }
+
+  .project-item img {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: none;
+  }
 }
 
-.project-time {
-  font-size: 0.85rem;
-  color: #999;
-}
 
 
