@@ -7,6 +7,8 @@ profile:
 published: true
 ---
 
+🚨 THIS IS A TEST FROM about.md 🚨
+
 Hi! I am currently a first-year [MSTI](https://gix.uw.edu/graduate/msti) student at [the University of Washington](https://www.washington.edu).
 
 I am currently exploring research in embodied and physical AI, with a particular focus on multimodal machine learning and sensing-based systems.
