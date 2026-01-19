@@ -8,7 +8,7 @@ img.profile {
   margin-bottom: 1rem;
 
   width: auto !important;
-  max-width: 240px !important;  
+  max-width: 230px !important;  
 
   height: auto !important;
   display: block;
@@ -17,7 +17,6 @@ img.profile {
   border-radius: 0;
 }
 
-/* 手机端 */
 @include media-query($on-palm) {
   img.profile {
     float: none;
