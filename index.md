@@ -88,5 +88,8 @@ At the graduate level, I have built an interdisciplinary background in connected
 
 </div>
 
+<div class="more-projects">
+  <a href="/projects">More Projects →</a>
+</div>
 
 <br><br>
