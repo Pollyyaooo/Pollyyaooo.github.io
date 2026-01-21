@@ -5,15 +5,6 @@ permalink: /projects/
 published: true
 ---
 
-<h1 class="post-headline">Projects</h1>
-
-<p class="secondary-text">
-  My work explores human–computer interaction through physical computing, sensing,
-  and spatial analysis. Projects are grouped by focus area to reflect different stages
-  and directions of my practice.
-</p>
-
-
 <h2 class="project-section">Human–Computer Interaction</h2>
 
 <div class="selected-projects">
@@ -64,11 +55,6 @@ published: true
 
 
 <h2 class="project-section">Landscape & Spatial Design</h2>
-
-<p class="secondary-text">
-  Earlier work focusing on GIS-based spatial analysis, ecological planning,
-  and human–environment interaction at an urban scale.
-</p>
 
 <div class="selected-projects">
 
