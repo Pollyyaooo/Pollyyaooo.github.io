@@ -1,45 +1,97 @@
 ---
-title:
+title: Projects
 layout: default
 permalink: /projects/
 published: true
 ---
 
+<h1 class="post-headline">Projects</h1>
 
-<div class="ProjectContainer">
+<p class="secondary-text">
+  My work explores human–computer interaction through physical computing, sensing,
+  and spatial analysis. Projects are grouped by focus area to reflect different stages
+  and directions of my practice.
+</p>
 
-	<div class="gallery">
 
+<h2 class="project-section">Human–Computer Interaction</h2>
 
-  {% for project in site.projects %}
+<div class="selected-projects">
 
-  {% if project.redirect %}
-  <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
+  <div class="project-item">
+    <a href="/projects/smart-trash-bin">
+      <img src="/assets/images/projects/trash-bin.png" alt="Autonomous Trash Bin">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/smart-trash-bin" class="project-link">
+        <p class="project-title">
+          Autonomous Trash-Collecting Robot
+        </p>
+      </a>
+
+      <div class="project-time">Oct 2025 – Dec 2025</div>
+
+      <p>
+        An autonomous robotic trash bin designed to track pedestrians and encourage proper
+        waste disposal, combining sensing, actuation, embedded systems, and human-centered interaction.
+      </p>
+    </div>
   </div>
 
-  {% else %}
+  <div class="project-item">
+    <a href="/projects/reaction-game">
+      <img src="/assets/images/projects/reaction-game.png" alt="Reaction Game Machine">
+    </a>
 
-  <div class="projectTile">
-          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
+    <div class="project-text">
+      <a href="/projects/reaction-game" class="project-link">
+        <p class="project-title">
+          Reaction-Time Testing Game Machine
+        </p>
+      </a>
+
+      <div class="project-time">Oct 2025 – Dec 2025</div>
+
+      <p>
+        A physical game machine for measuring human reaction time through interactive feedback,
+        exploring sensing, embedded systems, and real-time user experience.
+      </p>
+    </div>
   </div>
-
-  {% endif %}
-
-  {% endfor %}
-
-	</div>
 
 </div>
+
+
+<h2 class="project-section">Landscape & Spatial Design</h2>
+
+<p class="secondary-text">
+  Earlier work focusing on GIS-based spatial analysis, ecological planning,
+  and human–environment interaction at an urban scale.
+</p>
+
+<div class="selected-projects">
+
+  <div class="project-item">
+    <a href="/projects/birding-gis">
+      <img src="/assets/images/projects/birding-gis.png" alt="GIS Birding Project">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/birding-gis" class="project-link">
+        <p class="project-title">
+          GIS-based Birding Site Selection and Conservation Design in Shanghai
+        </p>
+      </a>
+
+      <div class="project-time">Sep 2023 – Dec 2023</div>
+
+      <p>
+        A GIS-driven study identifying urban birding sites and proposing landscape interventions
+        to support bird conservation and human–nature interaction.
+      </p>
+    </div>
+  </div>
+
+</div>
+
