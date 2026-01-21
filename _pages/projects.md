@@ -7,7 +7,7 @@ published: true
 
 <br>
 
-<h3 class="project-section">Human–Computer Interaction</h3>
+<h3 class="post-description">Human–Computer Interaction</h3>
 
 <div class="selected-projects">
 
@@ -56,7 +56,7 @@ published: true
 </div>
 
 
-<h3 class="project-section">Landscape & Spatial Design</h3>
+<h3 class="post-description">Landscape & Spatial Design</h3>
 
 <div class="selected-projects">
 
