@@ -5,7 +5,9 @@ permalink: /projects/
 published: true
 ---
 
-<h2 class="project-section">Human–Computer Interaction</h2>
+<br>
+
+<h3 class="project-section">Human–Computer Interaction</h3>
 
 <div class="selected-projects">
 
@@ -54,7 +56,7 @@ published: true
 </div>
 
 
-<h2 class="project-section">Landscape & Spatial Design</h2>
+<h3 class="project-section">Landscape & Spatial Design</h3>
 
 <div class="selected-projects">
 
