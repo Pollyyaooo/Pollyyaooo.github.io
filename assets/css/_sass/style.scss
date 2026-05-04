@@ -237,6 +237,10 @@ article .post-description {
   margin-bottom: 0;
   border-bottom: 1px solid #f0f0f0;
 
+  & + .project-item {
+    padding-top: 2.5rem;
+  }
+
   &:last-child {
     border-bottom: none;
   }
