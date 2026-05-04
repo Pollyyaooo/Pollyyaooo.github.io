@@ -1,44 +1,58 @@
-# Gradfolio
+# Polly Yao — Personal Website
 
-<p align="center">
-<img src="https://snippets.jitin.xyz/assets/img/demo/grad_composite.png" alt="Composite example of the gradfolio theme"/>
-</p>
+Personal academic website built with Jekyll, for job search, PhD applications, and project portfolio.
 
-responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
+## Prerequisites
 
-## Preview
+- Ruby (recommended: 3.x)
+- Bundler
 
-<details>
-<summary>Light</summary>
-<img src="https://snippets.jitin.xyz/assets/img/demo/grad_light.png" alt="Preview of gradfolio theme in light mode"/>
-</details>
-<details>
-<summary>Dark</summary>
-<img src="https://snippets.jitin.xyz/assets/img/demo/grad_dark.png" alt="Preview of gradfolio theme in dark mode"/>
-</details>
+Install Bundler if you don't have it:
 
-## Features
-- Responsive
-- Respects Dark Mode preference set by the user
-- Projects Page to showcase your work/side projects
-- Easily link to your profiles on ResearchGate and ORCID
+```bash
+gem install bundler
+```
 
-## Installation
-* Fork the repo by using the `Use this template` button
-* Now, in your copy of the repo, [allow workflows to write to your repo](https://github.com/jitinnair1/autoCV/wiki/How-to-use-autoCV:-Detailed-Instructions#step-3-give-the-workflow-write-permissions-for-your-repo-settings---actions---general)
-* You can now modify the contents and personalise the template
+## Run Locally
 
-Alternatively, you can [download the source files](https://github.com/jitinnair1/gradfolio/archive/master.zip) and [make changes locally](https://github.com/jitinnair1/gradfolio/wiki/Local-Development). 
+1. Clone the repository:
 
-## Documentation
+```bash
+git clone https://github.com/Pollyyaooo/Pollyyaooo.github.io.git
+cd Pollyyaooo.github.io
+```
 
-Check out the [Wiki](https://github.com/jitinnair1/gradfolio/wiki) for some tips on [publishing to a custom domain](https://github.com/jitinnair1/gradfolio/wiki/Publishing-your-website) or an [indicative list of things to customise before you publish](https://github.com/jitinnair1/gradfolio/wiki/Customising-your-website) 
+2. Install dependencies:
 
-### Also, check out:
+```bash
+bundle install
+```
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
-- [snippet-book](https://github.com/jitinnair1/snippet-book) -terminal style, clean Jekyll blog theme with catppuccin colours
+3. Start the local server:
 
+```bash
+bundle exec jekyll serve
+```
 
-PS: If you liked the theme, do star :star: it! Thanks!
+4. Open your browser and go to `http://localhost:4000`
+
+## Project Structure
+
+```
+├── _includes/       # Reusable HTML components (navigation, footer, etc.)
+├── _layouts/        # Page layout templates
+├── _pages/          # Static pages (projects list, 404)
+├── _posts/          # Blog posts (Markdown)
+├── _projects/       # Project detail pages (Markdown)
+├── assets/          # CSS, images, fonts, PDF (CV)
+├── _config.yml      # Site configuration
+└── index.md         # Homepage content
+```
+
+## Customization
+
+- **Personal info**: Edit `_config.yml` (name, description, social links)
+- **Homepage**: Edit `index.md`
+- **Add a project**: Create a new `.md` file in `_projects/`
+- **Add a blog post**: Create a new `.md` file in `_posts/` with filename format `YYYY-MM-DD-title.md`
+- **CV**: Replace `assets/pdf/Polly_Yao_CV.pdf`

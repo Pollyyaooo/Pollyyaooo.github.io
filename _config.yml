@@ -1,49 +1,23 @@
-### your site title here
-
 title: Polly Yao
 description: MS Student in Technology Innovation
 
-baseurl: "" 
-url: "https://pollyyaooo.github.io/" 
-
+baseurl: ""
+url: "https://pollyyaooo.github.io/"
 
 # Pagination
 paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
-
-
 # Markdown
 highlighter: rouge
 markdown: kramdown
-
-# Tracker
-analytics:
-
-# optimization -> compress.html
-compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
-  comments: ["<!-- ", " -->"]
-  endings: [all]
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: []
 
 #collection
 collections:
   projects:
     output: true
     permalink: /projects/:name/
-    order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
 
 sass:
   sass_dir: /assets/css/_sass
