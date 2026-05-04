@@ -1,27 +1,22 @@
-/* =========================
-   Profile image (About page)
-   ========================= */
-
 img.profile {
   float: right;
-  margin-left: 2rem;
+  margin-left: 2.5rem;
   margin-bottom: 1rem;
 
-  width: 120px !important;
-  height: auto !important;
-   
-  height: auto !important;
+  width: 150px !important;
+  height: 150px !important;
+  object-fit: cover;
   display: block;
 
+  border-radius: 50%;
   border: none;
-  border-radius: 0;
 }
 
 @include media-query($on-palm) {
   img.profile {
     float: none;
-    margin: 0 auto 1.5rem auto;
-    max-width: 180px !important;
+    margin: 0 auto 2rem auto;
+    width: 120px !important;
+    height: 120px !important;
   }
 }
-
