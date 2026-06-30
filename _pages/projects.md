@@ -166,6 +166,90 @@ published: true
 <div class="selected-projects">
 
   <div class="project-item">
+    <a href="/projects/urban-forest-amphibian">
+      <img src="/assets/images/projects/urban-forest-amphibian.png" alt="Urban Forest Amphibian Design">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/urban-forest-amphibian" class="project-link">
+        <p class="project-title">
+          Urban Forest Landscape Design Based on Amphibian Habitat Requirements — Shanghai Sanlin Wedge Greenspace
+        </p>
+      </a>
+
+      <div class="project-time">Feb 2025 – Jun 2025</div>
+
+      <p>
+        A landscape design study for the Sanlin wedge greenspace in Shanghai, optimizing urban forest
+        structure to meet the habitat needs of amphibian species.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-item">
+    <a href="/projects/sheng-sheng-bu-xi">
+      <img src="/assets/images/projects/sheng-sheng-bu-xi.png" alt="Sheng Sheng Bu Xi">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/sheng-sheng-bu-xi" class="project-link">
+        <p class="project-title">
+          Shēng Shēng Bù Xī — Resilient Wetland Restoration for Coilia Protection along the Northern Shore
+        </p>
+      </a>
+
+      <div class="project-time">Sep 2024 – Jan 2025</div>
+
+      <p>
+        A resilient ecological restoration landscape design for the northern coastal wetland,
+        centered on the conservation of Coilia nasus through tidal rhythm and habitat regeneration.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-item">
+    <a href="/projects/dao-tianjia">
+      <img src="/assets/images/projects/dao-tianjia.png" alt="Dao Tianjia Paddy+">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/dao-tianjia" class="project-link">
+        <p class="project-title">
+          Dào Tiánjia · Paddy+ — Rural Heritage Innovation for Pujiang Country Park Phase II
+        </p>
+      </a>
+
+      <div class="project-time">Feb 2024 – Jul 2024</div>
+
+      <p>
+        A planning and design proposal for Pujiang Country Park Phase II, drawing on the cultural
+        memory of rice paddy farming to reimagine rural landscape heritage in a contemporary context.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-item">
+    <a href="/projects/guan-guan-ju-jiu">
+      <img src="/assets/images/projects/guan-guan-ju-jiu.png" alt="Guan Guan Ju Jiu">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/guan-guan-ju-jiu" class="project-link">
+        <p class="project-title">
+          Guān Guān Jū Jiū — Urban Waterfront Landscape for Bird Attraction and Conservation
+        </p>
+      </a>
+
+      <div class="project-time">Sep 2023 – Jan 2024</div>
+
+      <p>
+        A waterfront greenspace design rooted in the imagery of the osprey's call from the
+        Book of Songs, creating urban habitat corridors to attract and protect bird species.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-item">
     <a href="/projects/birding-gis">
       <img src="/assets/images/projects/birding-gis.png" alt="GIS Birding Project">
     </a>
@@ -182,6 +266,48 @@ published: true
       <p>
         A GIS-driven study identifying urban birding sites and proposing landscape interventions
         to support bird conservation and human–nature interaction.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-item">
+    <a href="/projects/zhuangzi-butterfly">
+      <img src="/assets/images/projects/zhuangzi-butterfly.png" alt="Zhuangzi Butterfly Dream">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/zhuangzi-butterfly" class="project-link">
+        <p class="project-title">
+          Zhuangzi's Butterfly Dream — Wilderness Park Design for Pollinator Education
+        </p>
+      </a>
+
+      <div class="project-time">Sep 2023 – Nov 2023</div>
+
+      <p>
+        A wilderness country park design inspired by Zhuangzi's dream of becoming a butterfly,
+        combining ecological restoration with public education on pollinating insects.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-item">
+    <a href="/projects/rise-up-fengxian">
+      <img src="/assets/images/projects/rise-up-fengxian.png" alt="RISE UP Fengxian">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/rise-up-fengxian" class="project-link">
+        <p class="project-title">
+          RISE UP Fengxian — Green TOD Urban Design
+        </p>
+      </a>
+
+      <div class="project-time">Feb 2023 – Jul 2023</div>
+
+      <p>
+        A transit-oriented development design for Fengxian district, integrating green
+        infrastructure and ecological connectivity to empower sustainable urban growth.
       </p>
     </div>
   </div>
