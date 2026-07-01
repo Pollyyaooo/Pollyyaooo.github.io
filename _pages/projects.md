@@ -161,6 +161,118 @@ published: true
 </div>
 
 
+<h3 class="post-description">UI Design</h3>
+
+<div class="selected-projects">
+
+  <div class="project-item">
+    <a href="/projects/m-echo">
+      <img src="/assets/images/projects/m-echo.png" alt="M-echo 2.0">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/m-echo" class="project-link">
+        <p class="project-title">
+          M-echo 2.0
+        </p>
+      </a>
+
+      <div class="project-time">Oct 2024 – Dec 2024</div>
+
+      <p>
+        A meeting recorder redesigned for version 2.0 — adding scheduling and contact features
+        to the companion app while solving the hardware pain point of forgetting to power on or off.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-item">
+    <a href="/projects/threads">
+      <img src="/assets/images/projects/threads.png" alt="Threads">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/threads" class="project-link">
+        <p class="project-title">
+          Threads
+        </p>
+      </a>
+
+      <div class="project-time">Sep 2024 – Oct 2024</div>
+
+      <p>
+        A platform for circulating high-quality secondhand clothing, supporting sustainable
+        fashion brands in improving their ESG performance.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-item">
+    <a href="/projects/garden-tour">
+      <img src="/assets/images/projects/garden-tour.png" alt="Garden Tour">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/garden-tour" class="project-link">
+        <p class="project-title">
+          Garden Tour
+        </p>
+      </a>
+
+      <div class="project-time">Aug 2024 – Sep 2024</div>
+
+      <p>
+        An AR guide for classical Chinese gardens, offering precise interpretation of
+        design details and spatial ingenuity through augmented reality.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-item">
+    <a href="/projects/canal-map">
+      <img src="/assets/images/projects/canal-map.png" alt="Grand Canal Cultural Map">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/canal-map" class="project-link">
+        <p class="project-title">
+          Grand Canal Cultural Ecology Map
+        </p>
+      </a>
+
+      <div class="project-time">Apr 2023 – Aug 2024</div>
+
+      <p>
+        A mobile app visualizing the settlement cultures along the Grand Canal,
+        serving cultural tourism, historical research, and heritage preservation.
+      </p>
+    </div>
+  </div>
+
+  <div class="project-item">
+    <a href="/projects/sipmate">
+      <img src="/assets/images/projects/sipmate.png" alt="Sipmate">
+    </a>
+
+    <div class="project-text">
+      <a href="/projects/sipmate" class="project-link">
+        <p class="project-title">
+          Sipmate
+        </p>
+      </a>
+
+      <div class="project-time">May 2024 – Jul 2024</div>
+
+      <p>
+        An app for discovering at-home cocktail recipes and organizing offline home bar
+        gatherings with fellow enthusiasts.
+      </p>
+    </div>
+  </div>
+
+</div>
+
+
 <h3 class="post-description">Landscape & Spatial Design</h3>
 
 <div class="selected-projects">
