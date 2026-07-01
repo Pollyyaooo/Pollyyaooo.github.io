@@ -12,12 +12,12 @@ published: true
 <div class="selected-projects">
 
   <div class="project-item">
-    <a href="/projects/interpretative-interfaces">
+    <a href="https://technologiesofreading.com" target="_blank">
       <img src="/assets/images/projects/interpretative-interfaces.png" alt="Interpretative Interfaces">
     </a>
 
     <div class="project-text">
-      <a href="/projects/interpretative-interfaces" class="project-link">
+      <a href="https://technologiesofreading.com" target="_blank" class="project-link">
         <p class="project-title">
           Interpretative Interfaces
         </p>
@@ -34,12 +34,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/modern-monopoly">
+    <a href="https://github.com/Pollyyaooo/515_monopoly" target="_blank">
       <img src="/assets/images/projects/modern-monopoly.png" alt="Modern Monopoly">
     </a>
 
     <div class="project-text">
-      <a href="/projects/modern-monopoly" class="project-link">
+      <a href="https://github.com/Pollyyaooo/515_monopoly" target="_blank" class="project-link">
         <p class="project-title">
           Modern Monopoly
         </p>
@@ -55,12 +55,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/claude-code-buddy">
+    <a href="https://drive.google.com/file/d/1OSB1zDaVDkafb6bpBtN_NEswtYsy0UhP/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/claude-code-buddy.png" alt="Claude Code Buddy">
     </a>
 
     <div class="project-text">
-      <a href="/projects/claude-code-buddy" class="project-link">
+      <a href="https://drive.google.com/file/d/1OSB1zDaVDkafb6bpBtN_NEswtYsy0UhP/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           Claude Code Buddy
         </p>
@@ -76,12 +76,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/shake-and-throw">
+    <a href="https://drive.google.com/file/d/1pqs-61T_ONa4AgR03TPB3tj3PpGiMtH_/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/shake-and-throw.png" alt="Shake & Throw">
     </a>
 
     <div class="project-text">
-      <a href="/projects/shake-and-throw" class="project-link">
+      <a href="https://drive.google.com/file/d/1pqs-61T_ONa4AgR03TPB3tj3PpGiMtH_/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           Shake &amp; Throw
         </p>
@@ -96,12 +96,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/emotrace">
+    <a href="https://github.com/Pollyyaooo/Polly_514_Emotrace" target="_blank">
       <img src="/assets/images/projects/emotrace.png" alt="Emotrace">
     </a>
 
     <div class="project-text">
-      <a href="/projects/emotrace" class="project-link">
+      <a href="https://github.com/Pollyyaooo/Polly_514_Emotrace" target="_blank" class="project-link">
         <p class="project-title">
           Emotrace
         </p>
@@ -117,12 +117,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/smart-trash-bin">
+    <a href="https://sites.google.com/view/511moumou/home" target="_blank">
       <img src="/assets/images/projects/trash-bin.png" alt="Autonomous Trash Bin">
     </a>
 
     <div class="project-text">
-      <a href="/projects/smart-trash-bin" class="project-link">
+      <a href="https://sites.google.com/view/511moumou/home" target="_blank" class="project-link">
         <p class="project-title">
           Autonomous Trash-Collecting Robot
         </p>
@@ -138,12 +138,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/reaction-game">
+    <a href="https://github.com/Pollyyaooo/Polly_512_PANG" target="_blank">
       <img src="/assets/images/projects/reaction-game.png" alt="Reaction Game Machine">
     </a>
 
     <div class="project-text">
-      <a href="/projects/reaction-game" class="project-link">
+      <a href="https://github.com/Pollyyaooo/Polly_512_PANG" target="_blank" class="project-link">
         <p class="project-title">
           Reaction-Time Testing Game Machine
         </p>
@@ -166,12 +166,12 @@ published: true
 <div class="selected-projects">
 
   <div class="project-item">
-    <a href="/projects/m-echo">
+    <a href="https://drive.google.com/file/d/1b51nW_vrR57OFPGFZ27MN9GtBbWXU6OZ/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/m-echo.png" alt="M-echo 2.0">
     </a>
 
     <div class="project-text">
-      <a href="/projects/m-echo" class="project-link">
+      <a href="https://drive.google.com/file/d/1b51nW_vrR57OFPGFZ27MN9GtBbWXU6OZ/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           M-echo 2.0
         </p>
@@ -187,12 +187,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/threads">
+    <a href="https://drive.google.com/file/d/1BW_i31jwU2DwQDT93o9k7uQ3YIDTsrG9/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/threads.png" alt="Threads">
     </a>
 
     <div class="project-text">
-      <a href="/projects/threads" class="project-link">
+      <a href="https://drive.google.com/file/d/1BW_i31jwU2DwQDT93o9k7uQ3YIDTsrG9/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           Threads
         </p>
@@ -208,12 +208,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/garden-tour">
+    <a href="https://drive.google.com/file/d/1xtUDEsCptQGAU2X82wyx8NU9hHPgMCD4/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/garden-tour.png" alt="Garden Tour">
     </a>
 
     <div class="project-text">
-      <a href="/projects/garden-tour" class="project-link">
+      <a href="https://drive.google.com/file/d/1xtUDEsCptQGAU2X82wyx8NU9hHPgMCD4/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           Garden Tour
         </p>
@@ -229,12 +229,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/canal-map">
+    <a href="https://drive.google.com/file/d/1eDWxO0tZIcdqJLSuXGE8_lXE74jAY0lx/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/canal-map.png" alt="Grand Canal Cultural Map">
     </a>
 
     <div class="project-text">
-      <a href="/projects/canal-map" class="project-link">
+      <a href="https://drive.google.com/file/d/1eDWxO0tZIcdqJLSuXGE8_lXE74jAY0lx/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           Grand Canal Cultural Ecology Map
         </p>
@@ -250,12 +250,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/sipmate">
+    <a href="https://drive.google.com/file/d/1fUpm_LxMGSHWG2a1vxR1kRKzU59U_2tP/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/sipmate.png" alt="Sipmate">
     </a>
 
     <div class="project-text">
-      <a href="/projects/sipmate" class="project-link">
+      <a href="https://drive.google.com/file/d/1fUpm_LxMGSHWG2a1vxR1kRKzU59U_2tP/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           Sipmate
         </p>
@@ -278,12 +278,12 @@ published: true
 <div class="selected-projects">
 
   <div class="project-item">
-    <a href="/projects/urban-forest-amphibian">
+    <a href="https://drive.google.com/file/d/1b7LAb3ibvNhCx9L__8ag0c4ZFY4ubZis/view?usp=drive_link" target="_blank">
       <img src="/assets/images/projects/urban-forest-amphibian.png" alt="Urban Forest Amphibian Design">
     </a>
 
     <div class="project-text">
-      <a href="/projects/urban-forest-amphibian" class="project-link">
+      <a href="https://drive.google.com/file/d/1b7LAb3ibvNhCx9L__8ag0c4ZFY4ubZis/view?usp=drive_link" target="_blank" class="project-link">
         <p class="project-title">
           Urban Forest Landscape Design Based on Amphibian Habitat Requirements — Shanghai Sanlin Wedge Greenspace
         </p>
@@ -299,12 +299,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/sheng-sheng-bu-xi">
+    <a href="https://drive.google.com/file/d/1yLb7lH-MCIKQyrP6JPyLqrm1_cAtRVrO/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/sheng-sheng-bu-xi.png" alt="Sheng Sheng Bu Xi">
     </a>
 
     <div class="project-text">
-      <a href="/projects/sheng-sheng-bu-xi" class="project-link">
+      <a href="https://drive.google.com/file/d/1yLb7lH-MCIKQyrP6JPyLqrm1_cAtRVrO/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           Shēng Shēng Bù Xī — Resilient Wetland Restoration for Coilia Protection along the Northern Shore
         </p>
@@ -320,12 +320,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/dao-tianjia">
+    <a href="https://drive.google.com/file/d/1TXt_0e-DTRTF6yIxMtd2doNOtXNumlG-/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/dao-tianjia.png" alt="Dao Tianjia Paddy+">
     </a>
 
     <div class="project-text">
-      <a href="/projects/dao-tianjia" class="project-link">
+      <a href="https://drive.google.com/file/d/1TXt_0e-DTRTF6yIxMtd2doNOtXNumlG-/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           Dào Tiánjia · Paddy+ — Rural Heritage Innovation for Pujiang Country Park Phase II
         </p>
@@ -341,12 +341,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/guan-guan-ju-jiu">
+    <a href="https://drive.google.com/file/d/16ttG1pFmEmMYMJTED8o4POCqwgmOk7s9/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/guan-guan-ju-jiu.png" alt="Guan Guan Ju Jiu">
     </a>
 
     <div class="project-text">
-      <a href="/projects/guan-guan-ju-jiu" class="project-link">
+      <a href="https://drive.google.com/file/d/16ttG1pFmEmMYMJTED8o4POCqwgmOk7s9/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           Guān Guān Jū Jiū — Urban Waterfront Landscape for Bird Attraction and Conservation
         </p>
@@ -362,33 +362,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/birding-gis">
-      <img src="/assets/images/projects/birding-gis.png" alt="GIS Birding Project">
-    </a>
-
-    <div class="project-text">
-      <a href="/projects/birding-gis" class="project-link">
-        <p class="project-title">
-          GIS-based Birding Site Selection and Conservation Design in Shanghai
-        </p>
-      </a>
-
-      <div class="project-time">Sep 2023 – Dec 2023</div>
-
-      <p>
-        A GIS-driven study identifying urban birding sites and proposing landscape interventions
-        to support bird conservation and human–nature interaction.
-      </p>
-    </div>
-  </div>
-
-  <div class="project-item">
-    <a href="/projects/zhuangzi-butterfly">
+    <a href="https://drive.google.com/file/d/1P331YOsmgi_AsmWMBNtXLH8UIdaCmMSl/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/zhuangzi-butterfly.png" alt="Zhuangzi Butterfly Dream">
     </a>
 
     <div class="project-text">
-      <a href="/projects/zhuangzi-butterfly" class="project-link">
+      <a href="https://drive.google.com/file/d/1P331YOsmgi_AsmWMBNtXLH8UIdaCmMSl/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           Zhuangzi's Butterfly Dream — Wilderness Park Design for Pollinator Education
         </p>
@@ -404,12 +383,12 @@ published: true
   </div>
 
   <div class="project-item">
-    <a href="/projects/rise-up-fengxian">
+    <a href="https://drive.google.com/file/d/1QV2IW2nEpiuwK8adZGyQZrSjtbAT6r98/view?usp=sharing" target="_blank">
       <img src="/assets/images/projects/rise-up-fengxian.png" alt="RISE UP Fengxian">
     </a>
 
     <div class="project-text">
-      <a href="/projects/rise-up-fengxian" class="project-link">
+      <a href="https://drive.google.com/file/d/1QV2IW2nEpiuwK8adZGyQZrSjtbAT6r98/view?usp=sharing" target="_blank" class="project-link">
         <p class="project-title">
           RISE UP Fengxian — Green TOD Urban Design
         </p>
