@@ -5,8 +5,6 @@ permalink: /projects/
 published: true
 ---
 
-<br>
-
 <h3 class="post-description">Human–Computer Interaction</h3>
 
 <div class="selected-projects">
